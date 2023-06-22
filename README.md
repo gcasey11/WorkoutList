@@ -22,3 +22,5 @@
 
 # Notes
 - Asynchronous means running in a new thread
+- Add proxy for dev environment so that backend can conenct to frontend
+- Use local storage via useContext in order to prevent frequent calls to the db when objects are added, edited, or deleted
